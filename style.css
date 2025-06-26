@@ -35,7 +35,7 @@
     }
 
     input[type="number"]:focus {
-      border-color: #28487b;
+      border-color: #ff005d;
     }
 
     button {
